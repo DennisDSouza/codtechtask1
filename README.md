@@ -14,4 +14,4 @@ it all calculator your score and return to an number value with a thumbs
 HTML5 ,css , javascript to built it
 
 4...output 
-![image alt]()
+![image alt](https://github.com/DennisDSouza/codtechtask1/blob/383ddb4ee01dc73ccd1c6e535ef6408d5dfec978/IMG_20240814_125258.jpg)
