@@ -2,6 +2,7 @@
 project  name is (quiz app)
 company:codtech 
 id :CT08DS6567
+duration: August to sep 2024
 domain:front end development 
 mentor:muzammil
 
